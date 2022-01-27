@@ -1,11 +1,10 @@
+![](https://img.shields.io/badge/Software%20Developer-Full%20Stack%20%2F%20Computer%20Engineer%20%2F%20Cyber%20Security%20Analyst%20%2F%20CyberOPS%20Associate-blue)
 ### Hi there 👋
 I am interested in many computer science fields and have experienced many of these fields with my individual projects. Software development and cyber security are at the top of these. I want to start and continue my career as a software developer. I am as interested in cybersecurity as I am in software development. In this field, I am improving myself with my research and the courses I am taking. But my passion is always to learn something and keep myself up-to-date.<br></br>
 <a href="https://github.com/RamazanUstuntas/RamazanUstuntas/tree/master/Documents"> 📖 <b>Click for the resources and technologies I follow to learn.</b> 📚  ➡</a>
 <br></br>
 
 <img align="center" alt="gif" style="height:300px; width:100%" src="coding.gif"> 
-
- ![](https://img.shields.io/badge/Software%20Developer-Full%20Stack%20%2F%20Computer%20Engineer%20%2F%20Cyber%20Security%20Analyst%20%2F%20CyberOPS%20Associate-blue)
 
 
 <table class="center">
