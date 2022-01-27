@@ -1,17 +1,17 @@
 * ### JavaScript
   - :globe_with_meridians: [30 Days of JavaScript](https://github.com/Asabeneh/30DaysOfJavaScript) - A step by step guide
    * #### ElectronJs
-      -:globe_with_meridians: [ElectronJs - Github](https://github.com/electron/electron) - Source Code 
-      -:globe_with_meridians: [ElectronJs - WebSite](https://www.electronjs.org/docs/latest/development/source-code-directory-structure) - Documentation
+      - :globe_with_meridians: [ElectronJs - Github](https://github.com/electron/electron) - Source Code 
+      - :globe_with_meridians: [ElectronJs - WebSite](https://www.electronjs.org/docs/latest/development/source-code-directory-structure) - Documentation
    * #### React-Native
-      -:globe_with_meridians: [React-Native - Github](https://github.com/facebook/react-native) - Source Code 
-      -:globe_with_meridians: [React-Native - WebSite](https://reactnative.dev/) - A step by step guides
+      - :globe_with_meridians: [React-Native - Github](https://github.com/facebook/react-native) - Source Code 
+      - :globe_with_meridians: [React-Native - WebSite](https://reactnative.dev/) - A step by step guides
    * #### React
-      -:globe_with_meridians: [React-Native - Github](https://github.com/facebook/react) - Source Code 
-      -:globe_with_meridians: [React-Native - WebSite](https://reactjs.org/) - A step by step guides
+      - :globe_with_meridians: [React-Native - Github](https://github.com/facebook/react) - Source Code 
+      - :globe_with_meridians: [React-Native - WebSite](https://reactjs.org/) - A step by step guides
    * #### Redux
-      -:globe_with_meridians: [React-Native - Github](https://github.com/reduxjs/redux) - Source Code 
-      -:globe_with_meridians: [React-Native - WebSite](https://redux.js.org/) - A step by step guides
+      - :globe_with_meridians: [React-Native - Github](https://github.com/reduxjs/redux) - Source Code 
+      - :globe_with_meridians: [React-Native - WebSite](https://redux.js.org/) - A step by step guides
    
 * ### Go
   - :globe_with_meridians: [gobyexample.com](https://gobyexample.com)
