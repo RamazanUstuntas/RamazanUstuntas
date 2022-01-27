@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am interested in many computer science fields and have experienced many of these fields with my individual projects. Software development and cyber security are at the top of these. I want to start and continue my career as a software developer. I am as interested in cybersecurity as I am in software development. In this field, I am improving myself with my research and the courses I am taking. But my passion is always to learn something and keep myself up to date.<br></br>
+I am interested in many computer science fields and have experienced many of these fields with my individual projects. Software development and cyber security are at the top of these. I want to start and continue my career as a software developer. I am as interested in cybersecurity as I am in software development. In this field, I am improving myself with my research and the courses I am taking. But my passion is always to learn something and keep myself up-to-date.<br></br>
 <a href="https://github.com/RamazanUstuntas"> 📖 Click for the resources and technologies I follow. 📚 </a>
 <br></br>
 
