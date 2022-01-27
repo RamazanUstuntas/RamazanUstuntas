@@ -24,7 +24,7 @@
 </a>
   </tr>
 </table>
-<a href="https://github.com/LuNiZz/siber-guvenlik-sss"> 📖 Click for the resources and technologies I follow. 📚 </a>
+<a href="https://github.com/RamazanUstuntas"> 📖 Click for the resources and technologies I follow. 📚 </a>
 <br></br>
 
 
