@@ -8,7 +8,7 @@
 <table class="center">
 <tr> 
           ⬇️⬇️⬇️ You can reach me through these channels. ⬇️⬇️⬇️
- </tr>
+ </tr><br>
   <tr>
 <td><a href="https://instagram.com/ramaznustuntas">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
