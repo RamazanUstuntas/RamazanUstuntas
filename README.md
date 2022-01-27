@@ -29,9 +29,8 @@ I am interested in many computer science fields and have experienced many of the
 </table>
 
 
-<div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=RamazanUstuntas&theme=blue-green">
-</div>
+
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RamazanUstuntas&theme=blue-green">
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=RamazanUstuntas.ramazanustuntas)](#)
 
