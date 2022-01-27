@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" alt="avatar" src="code.gif"> 
+<img align="center" alt="gif" src="coding.gif"> 
 
  ![](https://img.shields.io/badge/Software%20Developer-Full%20Stack%20%2F%20Computer%20Engineer%20%2F%20Cyber%20Security%20Analyst%20%2F%20CyberOPS%20Associate-blue)
 
