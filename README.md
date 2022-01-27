@@ -7,7 +7,7 @@
 
 <table class="center">
 <tr> 
-          ⬇️⬇️⬇️ Tum Linkler ⬇️⬇️⬇️
+          ⬇️⬇️⬇️ You can reach me through these channels. ⬇️⬇️⬇️
  </tr>
   <tr>
 <td><a href="https://instagram.com/ramaznustuntas">
