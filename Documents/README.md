@@ -46,3 +46,13 @@
 * ### Malware Analysis
   - :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati
   - :globe_with_meridians: [Reverse engineering malware](https://malwareunicorn.org/[[/workshops]]) by MalwareUnicorn 
+
+* ### Cheat Sheets
+  - [BugBounty](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  - [Metasploit](https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf)
+  - [Nmap](https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf)
+  - [Pentest](https://github.com/Tib3rius/Pentest-Cheatsheets)
+  - [Python](https://www.pythoncheatsheet.org)
+  - [SQL Injection](https://portswigger.net/web-security/sql-injection/cheat-sheet)
+  - [XSS](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf)
+  - [Vim](https://linuxacademy.com/site-content/uploads/2019/05/vim-1.png)
