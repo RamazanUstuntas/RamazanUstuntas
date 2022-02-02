@@ -24,6 +24,9 @@
   - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
 
+* ### Secure Code Development
+  - :book: [The Secure Code Development Booklet](https://turkcelloffensivesecurity.gitbook.io/guvenli-kod-gelistirme-kitapcigi/) - by Turkcell Cyber Security team
+
 
 * ### Web Security
   - :book: The Web Application Hacker's Handbook
