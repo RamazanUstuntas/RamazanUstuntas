@@ -8,9 +8,11 @@
    * #### React-Native
       - :globe_with_meridians: [React-Native - Github](https://github.com/facebook/react-native) - Source Code 
       - :globe_with_meridians: [React-Native - WebSite](https://reactnative.dev/) - A step by step guides
+      - :globe_with_meridians: [Custom Component in React-Native](https://www.fastfwd.com/custom-component-in-react-native/)
    * #### React
       - :globe_with_meridians: [React-Native - Github](https://github.com/facebook/react) - Source Code 
       - :globe_with_meridians: [React-Native - WebSite](https://reactjs.org/) - A step by step guides
+      - :globe_with_meridians: [React-Native - Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-create-custom-components-in-react)
    * #### Redux
       - :globe_with_meridians: [React-Native - Github](https://github.com/reduxjs/redux) - Source Code 
       - :globe_with_meridians: [React-Native - WebSite](https://redux.js.org/) - A step by step guides
