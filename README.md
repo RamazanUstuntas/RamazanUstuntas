@@ -17,7 +17,7 @@ I am interested in many computer science fields and have experienced many of the
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 </a> 
 <td><a href="https://reactnative.dev/">
-<img src="./react-native.png">
+<img src="./react-native.png" width="40" height="40">
 </a>
   </tr>
 </table>
