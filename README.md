@@ -2,19 +2,19 @@
 ### Hi there 👋
 I am interested in many computer science fields and have experienced many of these fields with my individual projects. Software development and cyber security are at the top of these. I want to start and continue my career as a software developer. I am as interested in cybersecurity as I am in software development. In this field, I am improving myself with my research and the courses I am taking. But my passion is always to learn something and keep myself up-to-date.<br></br>
 
-<table class="center">
+<table class="center" target="_blank" rel="noreferrer">
   <tr>
 <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="75" height="75">
 </a> 
 <td><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75">
   </a> 
-<td><a href="https://reactjs.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+<td><a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="75" height="75">
 </a> 
-<td><a href="https://reactnative.dev/">
-<img src="./react-native.png" width="40" height="40">
+<td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+<img src="./react-native.png" width="75" height="75">
 </a>
   </tr>
 </table>
