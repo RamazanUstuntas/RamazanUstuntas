@@ -14,7 +14,10 @@ I am interested in many computer science fields and have experienced many of the
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="75" height="75">
 </a> 
 <td><a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-<img src="./react-native.png" width="75" height="75">
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="75" height="75">
+</a>
+ <td><a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+<img src="https://w7.pngwing.com/pngs/70/60/png-transparent-vue-js-javascript-library-github-github-angle-text-triangle.png" width="75" height="75">
 </a>
   </tr>
 </table>
