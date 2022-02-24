@@ -17,7 +17,7 @@ I am interested in many computer science fields and have experienced many of the
 <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="75" height="75">
 </a>
  <td><a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-<img src="https://w7.pngwing.com/pngs/70/60/png-transparent-vue-js-javascript-library-github-github-angle-text-triangle.png" width="75" height="75">
+<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.png" width="75" height="75">
 </a>
   </tr>
 </table>
